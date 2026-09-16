@@ -10,3 +10,4 @@ markdown
 beautifulsoup4
 jq
 langchain-text-splitters
+numpy
