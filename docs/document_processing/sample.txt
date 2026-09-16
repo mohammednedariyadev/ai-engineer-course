@@ -1,0 +1,33 @@
+Electronic Commerce
+Unit-1
+History of E-commerce
+Most of us have shopped online for something at some point, which means we've taken part in
+e-commerce. So it goes without saying that e-commerce is everywhere. But very few people
+may know that e-commerce has a history that goes back to before the internet began.
+E-commerce actually goes back to the 1960s when companies used an electronic system called
+the Electronic Data Interchange to facilitate the transfer of documents. It wasn't until 1994 that
+the very first transaction took place. This involved the sale of a CD between friends through an
+online retail website called Net Market.
+The industry has gone through so many changes since then, resulting in a great deal of
+evolution. Traditional brick-and-mortar retailers were forced to embrace new technology in
+order to stay afloat as companies like Alibaba, Amazon, eBay, and Etsy became household
+names. These companies created a virtual marketplace for goods and services that consumers
+can easily access.
+Meaning of e-commerce
+As is obvious, the term e-commerce is an abbreviated term for ‘electronic commerce’, which
+refers to the process of undertaking business transactions over internet. Almost anything -
+ranging from basic items such as breads or soaps, to high end expensive products such as
+computers or cars and even highly specialized services such as sale of second-hand products to
+purchase of property, are all available on the related e-commerce web-portals. Depending on the
+products and services available, e-commerce web-portals could be understood to be ‘Generic’
+and ‘Specific’. Examples of generic ecommerce portals are ‘Flip Cart’, ‘Amazon’, where one
+could buy any product, ranging from furniture to flowers. On the other hand ‘Big Basket’ could
+be termed as a specific e-commerce web portal as the customer can order for only grocery related
+products on this web portal.
+Framework of e-commerce
+E-commerce frameworks are software platforms or structures that provide a foundation for
+building and managing online stores and digital commerce websites. They are pre-built,
+customizable solutions designed to streamline the development and deployment of ecommerce
+websites, making it easier for businesses to set up and manage their online presence. By using an
+e-commerce framework, businesses can save time and resources, as they don’t need to build these
+functionalities from scratch.

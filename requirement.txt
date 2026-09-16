@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-community
+langchain-core
+pypdf
+pymupdf
+pdfplumber
+unstructured 
+markdown
+beautifulsoup4
+jq
+langchain-text-splitters
