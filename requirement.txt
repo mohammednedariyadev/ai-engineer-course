@@ -13,3 +13,5 @@ langchain-text-splitters
 numpy
 pandas
 openpyxl
+matplotlib
+seaborn
